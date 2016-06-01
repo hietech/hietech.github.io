@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # External Gems
 gems: 						[jekyll-paginate]
 
@@ -55,3 +56,6 @@ sass:
 markdown: 					kramdown
 permalink: 					weblog/:title/
 
+=======
+baseurl: /
+>>>>>>> 0f2a3d4029e59ebab84094f63bb55165c25cb765
