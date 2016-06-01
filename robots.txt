@@ -1,0 +1,4 @@
+User-agent: *
+ Disallow:
+
+Sitemap: http://hietech.github.io/sitemap.xml

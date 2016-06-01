@@ -1,0 +1,57 @@
+# External Gems
+gems: 						[jekyll-paginate]
+
+
+# Site Settings
+title: 						"Yuguo.us"
+url:						"http://yuguo.us"
+email: 						"me@yuguo.us"
+description: 			"腾讯UI工程师，住在深圳，《Web全栈工程师的自我修养》作者。"
+baseurl: 					""
+logourl: 					"/files/common/avatar.jpg"
+fa-logo: 					"fa-camera-retro"
+paginate: 					10
+paginate_path: "weblog/:num"
+
+# Author Settings
+author_name: 				"余果"
+author_url: 				"http://yuguo.us"
+author_bio: 				"腾讯UI工程师，住在深圳，《Web全栈工程师的自我修养》作者。"
+author_email: 				"me@yuguo.us"
+author_image: 				"/files/common/avatar.jpg"
+
+
+# Social Settings
+twitter_url: 				"https://twitter.com/yuguo"
+facebook_url: 				"https://www.facebook.com/yuguo"
+github_url:  				"https://github.com/yuguo"
+weibo_url: 					"http://weibo.com/yuguous"
+pocket_url: 				"https://getpocket.com/@fishguo321"
+youtube_url:  				""
+dribbble_url:  				""
+googleplus_url: 			""
+instagram_url:  			""
+pinterest_url:  			""
+linkedin_url:  				""
+
+
+# Theme Settings
+theme_disqus_shortname: 	"yuguo"
+theme_google_comments: 		false
+theme_analytics_id: 		"UA-741276-12"
+theme_reading_time: 		true
+theme_autoload_comments: 	true
+theme_always_show_nav: 		true
+
+
+# SASS Settings
+# DO NOT MODIFY
+sass:
+ sass_dir: "assets/css/"
+ style: :compressed
+
+
+# Build Settings
+markdown: 					kramdown
+permalink: 					weblog/:title/
+
